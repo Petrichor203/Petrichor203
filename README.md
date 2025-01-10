@@ -18,3 +18,5 @@ Currently, I'm focusing on Python.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=arduino&logoColor=white)
 
+## Contact
+- [Discord](https://discord.gg/sHCyp2zSQn)
